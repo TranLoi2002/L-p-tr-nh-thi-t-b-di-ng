@@ -1,1 +1,1 @@
-# L-p-tr-nh-thi-t-b-di-ng
+# Các bài thực hành môn Lập trình thiết bị di động 
